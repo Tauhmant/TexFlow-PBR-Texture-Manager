@@ -1,7 +1,7 @@
 # TexFlow - PBR Texture Manager
 
 ## Repository
-<Link to your project's public GitHub respository>
+https://github.com/Tauhmant/TexFlow-PBR-Texture-Manager
 
 ## Description
 TexFlow is a Python desktop app that help 3D artists aitomatically indentify, rename, and organize texture files. All your texture files in one simple library which simplifies texture management, especially when working with software like Maya 3D, Blender and Unreal Engine.
